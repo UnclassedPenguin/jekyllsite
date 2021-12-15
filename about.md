@@ -6,7 +6,7 @@ title: About
 <div class="row">
   <div class="col-md-3">
   </div>
-  <div class="col-md-6 bg-dark text-white">
+  <div class="col-md-6 bg-dark text-white pt-4">
 	<h1>About This Site</h1>
 
 	<p>This site was written by me.</p> 
