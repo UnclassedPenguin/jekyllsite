@@ -8,6 +8,8 @@ featured: true
 date: 2021-11-26
 ---
 
+![Image]({{site.baseurl}}/assets/images/fre-sonneveld-q6n8nIrDQHE-unsplash.jpg)
+
 <div class="photo-credit">Photo by <a href="https://unsplash.com/@fresonneveld?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Fré Sonneveld</a> on <a href="https://unsplash.com/s/photos/electricity?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></div>
 
 > What would you do if your power was out for an extended period of time? Have you ever considered it?

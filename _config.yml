@@ -1,6 +1,6 @@
 #site
 name: "Unclassed Blog"
-baseurl: "/jekyllsite/"
+baseurl: "/jekyllsite"
 
 collections:
   authors:
