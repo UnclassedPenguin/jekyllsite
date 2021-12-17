@@ -10,4 +10,4 @@ function getRandomColor() {
 	
 }
 
-window.onload = getRandomColor;
+getRandomColor();
