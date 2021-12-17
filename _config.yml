@@ -1,6 +1,6 @@
 #site
 name: "Unclassed Blog"
-url: https://unclassed.ca/jekyllsite
+url: https://unclassed.ca
 baseurl: "/jekyllsite"
 
 #Cover Page

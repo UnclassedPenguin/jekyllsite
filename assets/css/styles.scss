@@ -2,15 +2,26 @@
 ---
 @import "main";
 
+:root {
+	--rand: #98b8eb;
+}
 
 body {
 	font-family: arial;
 }
 
 h2 a, p a {
+	color: var(--rand);
+	text-decoration: none;
+}
+
+/*
+h2 a, p a {
 	color: #98B8EB !important;
 	text-decoration: none;
 }
+*/
+
 
 h2 a:hover, p a:hover {
 	color:#588CDF !important;
