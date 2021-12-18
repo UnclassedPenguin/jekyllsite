@@ -66,6 +66,8 @@ PLATFORMS
 DEPENDENCIES
   jekyll
   jekyll-sitemap
+  kramdown
+  rouge
 
 BUNDLED WITH
    2.2.31
