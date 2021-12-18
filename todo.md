@@ -20,9 +20,10 @@ title: ToDo
 	- [ ] Research search (lawl) (lunr perhaps?)
 	- [ ] Implement search
 - [ ] Implement categories
+	- [ ] Look into jekyll-archives
 	- [ ] Categories page
 - [ ] Featured image perhaps?
 - [ ] Pagination
 	- [ ] Pages
-	- [ ] Next/Previous post links
- 
+	- [ ] Next/Previous post links 
+- [ ] Keep working on getRandomColor.js to give links different colors instead of all the same. 
