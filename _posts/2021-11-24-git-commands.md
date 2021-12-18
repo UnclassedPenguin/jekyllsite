@@ -5,6 +5,28 @@ author: tyler
 image:
 categories: [Github, Cheat Sheet]
 ---
+### Branches
+
+- Check local branches   
+	`$ git branch`
+
+- Create new branch  
+	`$ git branch new-branch`
+
+- Switch to new branch  
+	`$ git checkout new-branch`
+
+- Create and Switch to new branch in one command  
+	`$ git checkout -b new-branch`
+
+- To merge changes made in new-branch into main first change to main  
+	`$ git checkout main`
+
+- Then merge  
+	`$ git merge main`
+
+- Once everything is checked and running fine, delete the branch  
+	`$ git branch -d new-branch`	
 
 ### Contributing to a Project
 
@@ -42,25 +64,4 @@ categories: [Github, Cheat Sheet]
 
 - Go to fork on Github, refresh, should be pull request button. Click and fill it out.   
 
-### Branches
 
-- Check local branches 
-	`$ git branch`
-
-- Create new branch
-	`$ git branch new-branch`
-
-- Switch to new branch
-	`$ git checkout new-branch`
-
-- Create and Switch to new branch in one command
-	`$ git checkout -b new-branch`
-
-- To merge changes made in new-branch into main first change to main
-	`$ git checkout main`
-
-- Then merge
-	`$ git merge main`
-
-- Once everything is checked and running fine, delete the branch
-	`$ git branch -d new-branch`	
