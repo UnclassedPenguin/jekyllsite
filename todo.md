@@ -10,11 +10,19 @@ title: ToDo
 
 -----
 
-- [x] sitemap
-- [x] syntax highlighting
+- [x] Implement sitemap
+- [x] Implement syntax highlighting
 	- Maybe not done...I'm not really happy with the coloring of the syntax. Keep thinking on it. 
 - [ ] SEO
-	- [ ] Research seo plugin for jekyll
+	- [ ] Research SEO plugin for Jekyll
 	- [ ] Implement Plugin
-- [ ]
-- [ ]
+- [ ] Search
+	- [ ] Research search (lawl) (lunr perhaps?)
+	- [ ] Implement search
+- [ ] Implement categories
+	- [ ] Categories page
+- [ ] Featured image perhaps?
+- [ ] Pagination
+	- [ ] Pages
+	- [ ] Next/Previous post links
+ 
