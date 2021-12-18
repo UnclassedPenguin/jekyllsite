@@ -2,6 +2,8 @@
 name: "Unclassed Blog"
 url: https://unclassed.ca
 baseurl: "/jekyllsite"
+permalink: /:year/:month/:day/:title/ 
+
 
 #Cover Page
 coverheader: "Hey I'm Tyler"
