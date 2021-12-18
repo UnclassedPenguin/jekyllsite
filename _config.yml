@@ -11,3 +11,8 @@ coversub: "This is my blog where I will post about technology, life, farming, an
 
 collections:
   authors:
+
+
+#Plugins
+plugins:
+  - jekyll-sitemap
